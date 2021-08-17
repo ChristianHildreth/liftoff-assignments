@@ -20,6 +20,6 @@ https://trello.com/b/rH0BzmBK/liftoff
 
 ### Project Repo Link
 
-https://github.com/Zackarias00/recipe-app
+https://github.com/Zackarias00/recipe-app-retry
 
 Include a link to your project on GitHub.
